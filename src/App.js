@@ -5,7 +5,10 @@ import Parent from "./Components/Parent";
 function App() {
   return (
     <div>
+
+      <h1>parent</h1>
        <Parent></Parent>
+       <h1>child</h1>
      
     </div>
   );
